@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-```yaml
+
 name: Roshan Immanuel
 focus: Full-Stack Web, Mobile & AI Systems
 experience: Building apps, ML tools, IoT projects, backend APIs
