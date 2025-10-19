@@ -21,29 +21,49 @@
 
 ---
 
-### 📊 GitHub Stats
+
+### 🧠 About Me  
+💻 Passionate about Full Stack Development and AI  
+🚀 Constantly learning, building, and sharing open-source projects  
+🎮 Love creating games and experimenting with creative tech  
+
+---
+
+### 📊 GitHub Stats & Contributions  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshanimmanuel792&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanimmanuel792&theme=radical" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=roshanimmanuel792&show_icons=true&theme=radical" alt="Roshan's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanimmanuel792&theme=radical" alt="GitHub streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanimmanuel792&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanimmanuel792&theme=react-dark" alt="GitHub activity graph" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🧩 Languages Used  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/roshan-immanuel-e-1b1aa4353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/roshanimmanuel792/ROSHAN1">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanimmanuel792&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
+
+### 🏆 Contributions Summary  
+- 🔢 **1272** contributions this year  
+- ⭐ **3** starred repositories  
+- 💬 Active in commits, pull requests, and issues  
+
+---
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshanimmanuel792)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://github.com/roshanimmanuel792)  
+[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:roshanimmanuel10@gmail.com)
+
+---
+
 
 ### ✨ Fun Fact
 > *“The best way to predict the future is to invent it.” – Alan Kay*  
