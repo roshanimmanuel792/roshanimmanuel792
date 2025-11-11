@@ -50,9 +50,7 @@
 
 ---
 
-### 🏆 Contributions Summary  
-- 🔢 **1272** contributions this year  
-- ⭐ **3** starred repositories  
+### 🏆 Contributions Summary   
 - 💬 Active in commits, pull requests, and issues  
 
 ---
