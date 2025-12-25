@@ -22,7 +22,7 @@
 ---
 
 
-### 🧠 About Me  
+### ->About Me  
 💻 Passionate about Full Stack Development and AI  
 🚀 Constantly learning, building, and sharing open-source projects  
 🎮 Love creating games and experimenting with creative tech  
