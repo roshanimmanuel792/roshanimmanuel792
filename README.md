@@ -40,9 +40,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanimmanuel792&theme=radical" alt="GitHub streak" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanimmanuel792&theme=react-dark" alt="GitHub activity graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanimmanuel792&theme=tokyo-night" width="95%" />
+</div>
+
 
 ---
 
