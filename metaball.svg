@@ -1,0 +1,65 @@
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gooey / metaball effect -->
+    <filter id="goo">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" mode="matrix"
+        values="
+          1 0 0 0 0
+          0 1 0 0 0
+          0 0 1 0 0
+          0 0 0 22 -10"
+        result="goo"/>
+      <feComposite in="SourceGraphic" in2="goo" operator="atop"/>
+    </filter>
+
+    <!-- Soft gradient -->
+    <radialGradient id="grad1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d6c7ff"/>
+      <stop offset="100%" stop-color="#b9a9ff"/>
+    </radialGradient>
+
+    <radialGradient id="grad2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f0e9ff"/>
+      <stop offset="100%" stop-color="#d8d0ff"/>
+    </radialGradient>
+  </defs>
+
+  <g filter="url(#goo)">
+    <!-- Blob 1 -->
+    <circle cx="200" cy="150" r="55" fill="url(#grad1)">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="-30 -10"
+        to="30 10"
+        dur="6s"
+        repeatCount="indefinite"
+        direction="alternate"/>
+    </circle>
+
+    <!-- Blob 2 -->
+    <circle cx="260" cy="160" r="70" fill="url(#grad2)">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="20 -20"
+        to="-20 20"
+        dur="7s"
+        repeatCount="indefinite"
+        direction="alternate"/>
+    </circle>
+
+    <!-- Blob 3 -->
+    <circle cx="330" cy="145" r="45" fill="url(#grad1)">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="-10 25"
+        to="10 -25"
+        dur="5s"
+        repeatCount="indefinite"
+        direction="alternate"/>
+    </circle>
+  </g>
+</svg>
