@@ -35,10 +35,6 @@
 
 ### 📊 GitHub Stats & Contributions  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshanimmanuel792&show_icons=true&theme=radical" alt="Roshan's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanimmanuel792&theme=radical" alt="GitHub streak" height="160"/>
-</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanimmanuel792&theme=tokyo-night" width="95%" />
