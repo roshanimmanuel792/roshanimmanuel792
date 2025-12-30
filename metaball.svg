@@ -1,63 +1,63 @@
-<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="320" viewBox="0 0 700 320" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Gooey / metaball effect -->
+    <!-- Softer gooey effect -->
     <filter id="goo">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="18" result="blur"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="14" result="blur"/>
       <feColorMatrix in="blur" mode="matrix"
         values="
           1 0 0 0 0
           0 1 0 0 0
           0 0 1 0 0
-          0 0 0 22 -10"
+          0 0 0 18 -8"
         result="goo"/>
       <feComposite in="SourceGraphic" in2="goo" operator="atop"/>
     </filter>
 
-    <!-- Soft gradient -->
-    <radialGradient id="grad1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#d6c7ff"/>
-      <stop offset="100%" stop-color="#b9a9ff"/>
+    <!-- Premium gradients -->
+    <radialGradient id="gradA" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#e6dcff"/>
+      <stop offset="100%" stop-color="#cbbcff"/>
     </radialGradient>
 
-    <radialGradient id="grad2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#f0e9ff"/>
-      <stop offset="100%" stop-color="#d8d0ff"/>
+    <radialGradient id="gradB" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#f4efff"/>
+      <stop offset="100%" stop-color="#ddd2ff"/>
     </radialGradient>
   </defs>
 
   <g filter="url(#goo)">
-    <!-- Blob 1 -->
-    <circle cx="200" cy="150" r="55" fill="url(#grad1)">
+    <!-- Big center blob -->
+    <circle cx="350" cy="160" r="95" fill="url(#gradA)">
       <animateTransform
         attributeName="transform"
         type="translate"
-        from="-30 -10"
-        to="30 10"
-        dur="6s"
+        from="-25 -10"
+        to="25 10"
+        dur="14s"
         repeatCount="indefinite"
         direction="alternate"/>
     </circle>
 
-    <!-- Blob 2 -->
-    <circle cx="260" cy="160" r="70" fill="url(#grad2)">
+    <!-- Left blob -->
+    <circle cx="220" cy="165" r="65" fill="url(#gradB)">
       <animateTransform
         attributeName="transform"
         type="translate"
-        from="20 -20"
-        to="-20 20"
-        dur="7s"
+        from="20 -15"
+        to="-20 15"
+        dur="16s"
         repeatCount="indefinite"
         direction="alternate"/>
     </circle>
 
-    <!-- Blob 3 -->
-    <circle cx="330" cy="145" r="45" fill="url(#grad1)">
+    <!-- Right blob -->
+    <circle cx="480" cy="155" r="55" fill="url(#gradA)">
       <animateTransform
         attributeName="transform"
         type="translate"
-        from="-10 25"
-        to="10 -25"
-        dur="5s"
+        from="-15 20"
+        to="15 -20"
+        dur="18s"
         repeatCount="indefinite"
         direction="alternate"/>
     </circle>
