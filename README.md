@@ -6,6 +6,9 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/roshanimmanuel792/roshanimmanuel792/main/metaball.svg" width="420" />
+</div>
 
 ### 🛠️ Tech Stacks
 <p align="center">
