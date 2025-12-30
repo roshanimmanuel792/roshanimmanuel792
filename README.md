@@ -35,8 +35,10 @@
 
 ### 📊 GitHub Stats & Contributions  
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanimmanuel792&theme=github-dark&area=true" />
+</div>
 
-![Metrics](https://metrics.lecoq.io/roshanimmanuel792?template=classic&base.activity=1&config.timezone=Asia/Kolkata)
 
 
 
