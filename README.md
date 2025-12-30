@@ -1,7 +1,8 @@
 <!-- Banner / ASCII -->
-<h1 align="center">⚡ Roshan Immanuel ⚡</h1>
+<h1 align="center">Roshan Immanuel </h1>
 <p align="center">
-  <b>Code. Learn. Build. Repeat.</b> <br>
+  <b> Hey Hi there </b>
+  <b> Code. Learn. Build. Repeat.</b> <br>
   💻 Tech Explorer | 🚀 AI Enthusiast | 🌐 Full-Stack Learner
 </p>
 
@@ -59,6 +60,10 @@
 ---
 
 ### 📫 Connect with Me  
+<div align="center">
+  <img src="https://media1.tenor.com/m/C_L-4a5BKDsAAAAd/heisenberg-yes.gif" width="420" />
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-immanuel-e-1b1aa4353)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://github.com/roshanimmanuel792)  
 [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:roshanimmanuel10@gmail.com)
