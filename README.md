@@ -7,9 +7,7 @@
 </p>
 
 ---
-<div align="center">
-  <img src="https://tenor.com/nMpVEQsbGYM.gif" width="420" />
-</div>
+<div class="tenor-gif-embed" data-postid="11428743405267688090" data-share-method="host" data-aspect-ratio="2.3271" data-width="100%"><a href="https://tenor.com/view/pisel-gif-11428743405267688090">Pisel GIF</a>from <a href="https://tenor.com/search/pisel-gifs">Pisel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### 🛠️ Tech Stacks
 <p align="center">
