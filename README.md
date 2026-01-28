@@ -7,9 +7,7 @@
 </p>
 
 ---
-<div class="tenor-gif-embed" data-postid="11428743405267688090" data-share-method="host" data-aspect-ratio="2.3271" data-width="100%"><a href="https://tenor.com/view/pisel-gif-11428743405267688090">Pisel GIF</a>from <a href="https://tenor.com/search/pisel-gifs">Pisel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-### 🛠️ Tech Stacks
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -25,7 +23,7 @@
 
 
 ### ->About Me  
-💻 Passionate about Full Stack Development and AI  
+💻 Passionate about End to End Development and AI and Ml Enthusiast 
 🚀 Constantly learning, building, and sharing open-source projects  
 🎮 Love creating games and experimenting with creative tech  
 
@@ -61,7 +59,7 @@
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-immanuel-e-1b1aa4353)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://github.com/roshanimmanuel792)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://os-portfolio-one.vercel.app/)  
 [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:roshanimmanuel10@gmail.com)
 
 ---
