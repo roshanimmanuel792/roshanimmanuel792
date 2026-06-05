@@ -55,7 +55,7 @@
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-immanuel-e-1b1aa4353)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://os-portfolio-one.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://roshanimmanuel.vercel.app)  
 [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:roshanimmanuel10@gmail.com)
 
 ---
